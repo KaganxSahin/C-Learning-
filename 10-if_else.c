@@ -6,13 +6,13 @@ printf("Enter your age:");
 scanf("%d",&age);
 
 if(age>=18){
-    printf("You are adult");
+    printf("You are an adult");
 }
 else if(age>=15){
     printf("You are young");
 }
 else{
-    printf("You are child or baby");
+    printf("You are a child or baby");
 }
 
 
